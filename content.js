@@ -131,6 +131,7 @@ if( extension_status == 'on' ) {
 		prefixx_elm.innerHTML = ' ' ;
 
 
+		// change color according to utoipan, dmania or others
 		if(catg == 'utopian'){ 
 			integer_elm.style.background = '#f5e9f5';
 			decimal_elm.style.background = '#f5e9f5'; } 
