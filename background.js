@@ -8,6 +8,8 @@ function set_status() {
     if(toggle) { status = 'on'; }
 }
 
+/* add local storing */
+
 function toggle_extension(tab){
     // Set icon
     chrome.browserAction.setIcon({ path: status+'.png', tabId:tab.id });
