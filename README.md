@@ -8,6 +8,10 @@ by Murat Tatar https://steemit.com/@murattatar
 ### Live
 You can [download](https://chrome.google.com/webstore/detail/sbd-yerel/hpacacbhnnjbpdbbamlpnfcmibkdiodf) from webstore chrome 
 
+![](https://raw.githubusercontent.com/murattatar/SBD-Yerel/master/tt.jpg)
+
+---
+
 ### Install
 Open .zip Drag main folder to chrome://extensions/
 
@@ -20,5 +24,3 @@ color of Utopian and dMania posts are different color
 ScreenShot
 ![](https://raw.githubusercontent.com/murattatar/SBD-Yerel/master/sss.jpg)
 
-Zoom
-![](https://raw.githubusercontent.com/murattatar/SBD-Yerel/master/tt.jpg)
