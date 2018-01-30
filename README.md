@@ -17,5 +17,8 @@ Click on extention icon You will see post rewards in TRY
 ### Info
 color of Utopian and dMania posts are different color
 
-SS
-![](https://raw.githubusercontent.com/murattatar/SBD-Yerel/master/screen.png)
+ScreenShot
+![](https://raw.githubusercontent.com/murattatar/SBD-Yerel/master/sss.jpg)
+
+Zoom
+![](https://raw.githubusercontent.com/murattatar/SBD-Yerel/master/tt.jpg)
