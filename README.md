@@ -8,6 +8,8 @@ by Murat Tatar https://steemit.com/@murattatar
 ### Live
 You can [download](https://chrome.google.com/webstore/detail/sbd-yerel/hpacacbhnnjbpdbbamlpnfcmibkdiodf) from webstore chrome 
 
+---
+
 ![](https://raw.githubusercontent.com/murattatar/SBD-Yerel/master/tt.jpg)
 
 ---
