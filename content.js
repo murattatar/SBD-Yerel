@@ -1,7 +1,6 @@
 
 if( extension_status == 'on' ) {
 
-
 	/*
 	You can chance end of apiURL your local currency:
 
@@ -15,6 +14,7 @@ if( extension_status == 'on' ) {
 	var cur3 = 'TRY'
 	var apiURL = 'https://api.coinmarketcap.com/v1/ticker/steem-dollars/?convert='+cur3
 	var cur2 = 'TL'
+	// if your local currency has not TWO letter symbol, you can use this cur2 = ''
 	// you "should" set json_obj.price_try accorrding to your currency in bellow
 	// eg. json_obj.price_chf
 
@@ -38,8 +38,8 @@ if( extension_status == 'on' ) {
 
 
 
-	var content_ar =':none:1'
-	var cur =':none:2'
+	var content_ar =':none:1content'
+	var cur =':none:2cur'
 	function DoSome(result) { 
 
 		var content_ar = result.responseText;
@@ -54,13 +54,11 @@ if( extension_status == 'on' ) {
 	  }
 
 	 
-
 	getURL(apiURL, DoSome)
 
 
 
 	 
-
 
 
 
@@ -108,6 +106,7 @@ if( extension_status == 'on' ) {
 		
 
 
+		//Steem has comma for bigger than 999 eg. $1,314.51 
 		var integer = integer_elm.innerText; var integer = integer.replace(",", "");
 		var decimal = decimal_elm.innerText;
 		var prefixx = decimal_elm.innerText;
