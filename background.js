@@ -33,3 +33,5 @@ chrome.browserAction.onClicked.addListener(function(tab) {
 });
 
 chrome.tabs.onUpdated.addListener(my_listener); 
+
+//next version should be save to LocalStore
