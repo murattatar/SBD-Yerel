@@ -13,7 +13,8 @@ if( extension_status == 'on' ) {
 
 	var cur3 = 'TRY'
 	var apiURL = 'https://api.coinmarketcap.com/v1/ticker/steem-dollars/?convert='+cur3
-	var cur2 = 'TL'
+	// we dont need cur2
+	/* var cur2 = 'TL' */
 	// if your local currency has not TWO letter symbol, you can use this cur2 = ''
 	// you "should" set json_obj.price_try accorrding to your currency in bellow
 	// eg. json_obj.price_chf
@@ -122,11 +123,11 @@ if( extension_status == 'on' ) {
 		var sbd_clc = sbd_loc * 0.375 * cut  // Net rewards after, curation, utopian, dmania
 		var sbd_net = sbd_clc.toFixed(2) // 2 decimal
 
-		if (cur2) { sym = cur2 } else { sym = cur3}
+		/* if (cur2) { sym = cur2 } else { sym = cur3} */
 
 
 		integer_elm.innerHTML = sbd_net ;
-		decimal_elm.innerHTML = ' '+sym ;
+		decimal_elm.innerHTML = ' '+cur3 ;
 		prefixx_elm.innerHTML = ' ' ;
 
 
