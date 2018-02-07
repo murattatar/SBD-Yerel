@@ -5,8 +5,8 @@
 by Murat Tatar https://steemit.com/@murattatar
 
 ----
-### Canlı 
-Hemen chrome webstore'dan [indirebilirsiniz](https://chrome.google.com/webstore/detail/sbd-yerel/hpacacbhnnjbpdbbamlpnfcmibkdiodf)  
+### Live 
+You can [download](https://chrome.google.com/webstore/detail/sbd-yerel/hpacacbhnnjbpdbbamlpnfcmibkdiodf) from chrome webstore
 
 ---
 
